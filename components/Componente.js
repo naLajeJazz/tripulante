@@ -40,7 +40,7 @@ if (d==false){
 
 <View >
 
-    <Text style={Estilo.txt}>nome: {tripulante.nome} </Text>
+    <Text style={Estilo.txt}>nome : {tripulante.nome} </Text>
     <Text style={Estilo.txt}>cargo: {tripulante.cargo} </Text>
     <Text style={Estilo.txt}>Status: {info}</Text>
     
