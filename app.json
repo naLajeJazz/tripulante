@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "tripulante",
+    "slug": "snack-2c8f99b1-9d44-4239-b433-1a23dbcb7185",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.nalajejazz.snack2c8f99b19d444239b4331a23dbcb7185"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
