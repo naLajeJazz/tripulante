@@ -9,7 +9,8 @@ export default (props) => {
   const[d,setD]=useState(false);
   const [info,setInfo]=useState('trabalhando')
 
-  const tripulante = {
+
+  const  tripulante = {
     nome: 'Zé',
     cargo: 'engenheiro',
     saude: 10,
@@ -18,7 +19,7 @@ export default (props) => {
      
   }; 
 
-
+ 
 
   //LOOP
   const l = setTimeout(() => { loop();}, 1000);
